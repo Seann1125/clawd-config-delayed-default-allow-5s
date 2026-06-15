@@ -1,0 +1,5 @@
+{
+  "permissionBubblesEnabled": true,
+  "delayedAutoApprovePermissions": true,
+  "delayedAutoApproveSeconds": 5
+}
