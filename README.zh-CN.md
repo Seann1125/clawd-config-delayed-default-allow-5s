@@ -1,5 +1,7 @@
 # Clawd 配置包：5 秒延迟默认同意
 
+[English](README.md) | [简体中文](README.zh-CN.md)
+
 这是一个独立的 Clawd on Desk 配置发布包，不是程序安装包，也不是程序升级包。
 
 它会开启以下行为：
