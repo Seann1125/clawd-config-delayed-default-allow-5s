@@ -25,6 +25,8 @@ If your Clawd build does not support delayed default allow yet, this package alo
 - `clawd-prefs.merge.json` - merge these keys into your existing prefs
 - `README.md` - English instructions
 - `README.zh-CN.md` - Chinese instructions
+- `RELEASE_TEMPLATE.md` - reusable English + Chinese release text
+- `LICENSE` - repository license
 
 ## How Users Install It
 
@@ -47,3 +49,7 @@ If your Clawd build does not support delayed default allow yet, this package alo
   "delayedAutoApproveSeconds": 5
 }
 ```
+
+## License
+
+[MIT](LICENSE)

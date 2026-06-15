@@ -22,6 +22,14 @@
 
 如果用户当前使用的 Clawd 程序本身还不支持“延迟默认同意”，那么只安装这个配置包不会凭空新增这个能力。
 
+## 仓库文件
+
+- `clawd-prefs.merge.json`：配置片段
+- `README.md`：英文说明
+- `README.zh-CN.md`：中文说明
+- `RELEASE_TEMPLATE.md`：可复用的中英双语发布文案
+- `LICENSE`：仓库许可证
+
 ## 下载用户怎么使用
 
 1. 先备份自己的 `clawd-prefs.json`
@@ -44,3 +52,7 @@
   "delayedAutoApproveSeconds": 5
 }
 ```
+
+## 许可证
+
+[MIT](LICENSE)
